@@ -3,7 +3,7 @@
 Frontend developer from <b>Fortaleza-CE, Brazil</b>
 
 
-- 🌱 I’m currently learning HTML5,CSS3,JavaScript and React
+- 🌱 I’m currently learning HTML5, CSS3, JavaScript and React
 
 
 <div style="display: inline_block"><br>
